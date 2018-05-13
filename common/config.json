@@ -1,0 +1,5 @@
+{
+  "MongoDBHost": "127.0.0.1:27017",
+  "Database": "taskmanager",
+  "Server": "127.0.0.1:3000"
+}
